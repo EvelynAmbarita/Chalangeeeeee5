@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Challenge Chapter 5</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_profile">Profile</string>
+    <string name="search">Search</string>
+    <string name="overview">Orang tua asal suku Batak yang pura-pura bertengkar agar anak-anaknya pulang dari perantauan.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

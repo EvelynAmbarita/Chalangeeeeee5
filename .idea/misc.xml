@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/drawable-v24/bg_edit_text.xml" value="0.116" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/drawable-v24/bg_rounded.xml" value="0.107" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/drawable-v24/bottom_nav_icon_color_selector.xml" value="0.107" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/drawable-v24/button_custom.xml" value="0.116" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/drawable-v24/shape_button_blue.xml" value="0.116" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/drawable-v24/shape_button_blue_dark.xml" value="0.116" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/drawable-v24/shape_button_purple.xml" value="0.116" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/drawable-v24/shape_outline_grey.xml" value="0.116" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/drawable-v24/shape_outline_purple.xml" value="0.116" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/drawable/bg_edit_text.xml" value="0.116" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/drawable/bg_rounded.xml" value="0.116" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/drawable/bottom_nav_icon_color_selector.xml" value="0.116" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/drawable/button_custom.xml" value="0.116" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/drawable/ic_login.xml" value="0.116" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/drawable/ic_search.xml" value="0.107" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/drawable/shape_button_blue.xml" value="0.116" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/drawable/shape_button_blue_dark.xml" value="0.116" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/drawable/shape_outline_grey.xml" value="0.116" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/drawable/shape_outline_purple.xml" value="0.116" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/layout/activity_detail.xml" value="0.14814814814814814" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/layout/activity_login.xml" value="0.209375" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/layout/activity_register.xml" value="0.14814814814814814" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/layout/activity_splash.xml" value="0.209375" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/layout/favorite_dashboard.xml" value="0.209375" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/layout/fragment_favorite.xml" value="0.17222222222222222" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/layout/fragment_home.xml" value="0.14814814814814814" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/layout/fragment_profile.xml" value="0.18" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/layout/item_home_category.xml" value="0.209375" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/layout/layout_home_member.xml" value="0.209375" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/layout/layout_home_toolbar.xml" value="0.25" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/layout/list_item_home_category.xml" value="0.209375" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/layout/list_item_movie_now_playing.xml" value="0.17222222222222222" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/layout/list_item_movie_populer.xml" value="0.209375" />
+        <entry key="..\:/ChallengeChapter5/app/src/main/res/menu/bottom_nav_menu.xml" value="0.209375" />
+        <entry key="..\:/Users/U S E R/AndroidStudioProjects/ChallengeChapter5/app/src/main/res/drawable/favorite.xml" value="0.2105" />
+        <entry key="..\:/Users/U S E R/AndroidStudioProjects/ChallengeChapter5/app/src/main/res/drawable/favorite_blankputih.xml" value="0.2115" />
+        <entry key="..\:/Users/U S E R/AndroidStudioProjects/ChallengeChapter5/app/src/main/res/drawable/favorite_red.xml" value="0.2095" />
+        <entry key="..\:/Users/U S E R/AndroidStudioProjects/ChallengeChapter5/app/src/main/res/drawable/ic_favorite.xml" value="0.2115" />
+        <entry key="..\:/Users/U S E R/AndroidStudioProjects/ChallengeChapter5/app/src/main/res/drawable/ic_images__1_.xml" value="0.2115" />
+        <entry key="..\:/Users/U S E R/AndroidStudioProjects/ChallengeChapter5/app/src/main/res/drawable/ic_login.xml" value="0.2115" />
+        <entry key="..\:/Users/U S E R/AndroidStudioProjects/ChallengeChapter5/app/src/main/res/drawable/shape_outline_purple.xml" value="0.1405" />
+        <entry key="..\:/Users/U S E R/AndroidStudioProjects/ChallengeChapter5/app/src/main/res/layout/activity_detail.xml" value="0.22" />
+        <entry key="..\:/Users/U S E R/AndroidStudioProjects/ChallengeChapter5/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/U S E R/AndroidStudioProjects/ChallengeChapter5/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/U S E R/AndroidStudioProjects/ChallengeChapter5/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/U S E R/AndroidStudioProjects/ChallengeChapter5/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/U S E R/AndroidStudioProjects/ChallengeChapter5/app/src/main/res/layout/fragment_favorite.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/U S E R/AndroidStudioProjects/ChallengeChapter5/app/src/main/res/layout/fragment_favorite_view_model.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/U S E R/AndroidStudioProjects/ChallengeChapter5/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/U S E R/AndroidStudioProjects/ChallengeChapter5/app/src/main/res/layout/fragment_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/U S E R/AndroidStudioProjects/ChallengeChapter5/app/src/main/res/layout/list_item_home_category.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/U S E R/AndroidStudioProjects/ChallengeChapter5/app/src/main/res/layout/list_item_movie_now_playing.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/U S E R/AndroidStudioProjects/ChallengeChapter5/app/src/main/res/layout/list_item_movie_populer.xml" value="0.25" />
+        <entry key="..\:/Users/U S E R/AndroidStudioProjects/ChallengeChapter5/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/U S E R/AndroidStudioProjects/ChallengeChapter5/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2115" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
